@@ -1,26 +1,33 @@
-# 袁园 | 放射诊断科医师
+# Yuan Yuan | Radiologist
 
-*株洲市人民医院 · 放射诊断科*
+*Zhuzhou People's Hospital · Department of Radiology*
 
 ---
 
-## 关于我
+## About Me
 
-株洲市人民医院放射诊断科医师，2017年通过株洲市人民医院事业单位公开招聘进入医院工作。主要从事X线、CT、MRI等医学影像诊断工作，熟悉常见病、多发病的影像学表现。
+Radiologist at Zhuzhou People's Hospital. Joined the hospital in 2017 through the public recruitment program. Specializes in medical image diagnosis including X-ray, CT, and MRI, with solid experience in imaging manifestations of common and frequently occurring diseases.
 
-坚持以精准影像、服务临床为宗旨，注重影像与临床实践的结合。
+Committed to precise imaging and clinical service, emphasizing the integration of radiology with clinical practice.
 
-## 专业领域
+## Areas of Expertise
 
-- **影像诊断方向**： 全身各系统常见病的X线、CT及MRI诊断
-- **擅长技术**： 磁共振（MRI）乳腺检查、急腹症CT影像评估
-- **其他方向**： 医学影像新技术临床应用
+- **Imaging Diagnosis**: X-ray, CT, and MRI diagnosis of common diseases across various systems
+- **Technical Focus**: MRI breast examination, CT evaluation of acute abdomen
+- **Other Interests**: Clinical application of new medical imaging technologies
 
-## 执业经历
+## Professional Experience
 
-- **2017年 - 至今** | 株洲市人民医院 放射诊断科 医师
+- **2017 – Present** | Zhuzhou People's Hospital, Department of Radiology — Radiologist
 
-## 学术与科普
+## Academic & Outreach
 
-- 2022年参与医院磁共振乳腺检查新技术相关的科普宣传，以通讯员身份署名发表
-- 持续关注放射影像领域的新技术、新进展
+- Participated in hospital's public outreach on new MRI breast examination techniques (2022), credited as a correspondent
+- Continuously follows new developments and advances in radiology
+
+## Clinical Information
+
+> Radiologists typically do not hold outpatient clinics. Clinical work is performed within the Department of Radiology.
+
+- **Location**: Department of Radiology, Zhuzhou People's Hospital
+- **Contact**: Accessible via hospital internal system or department phone
